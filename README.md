@@ -1,2 +1,2 @@
-# BankAPI 2
+# BankAPI
  Project 0
